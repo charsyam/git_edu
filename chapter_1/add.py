@@ -3,7 +3,7 @@ import typing
 
 
 def add(p1: int, p2: int) -> int:
-    return p1 - p2
+    return p1 - p2 + 1
 
 
 param1 = int(sys.argv[1])
